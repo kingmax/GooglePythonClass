@@ -1,0 +1,11 @@
+#!wing
+#!version=5.0
+##################################################################
+# Wing IDE project file                                          #
+##################################################################
+[project attributes]
+proj.file-list = [loc('hello.py')]
+proj.file-type = 'shared'
+proj.launch-config = {loc('hello.py'): ('project',
+        (u'',
+         'launch-9pOJ7IsTgMwBySa5'))}
