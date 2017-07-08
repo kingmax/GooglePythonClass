@@ -33,3 +33,9 @@ if __name__ == '__main__':
     main()
     from sys import exit
     exit(0)
+    
+#help(sys)    
+#help(sys.exit)
+#help(''.split)
+#dir()
+#dir(list)
