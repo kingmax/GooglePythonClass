@@ -5,11 +5,15 @@
 ##################################################################
 [project attributes]
 proj.file-list = [loc('002.py'),
+                  loc('003string.py'),
                   loc('hello.py')]
 proj.file-type = 'shared'
 proj.launch-config = {loc('002.py'): ('project',
                                       (u'',
                                        'launch-9pOJ7IsTgMwBySa5')),
+                      loc('003string.py'): ('project',
+        (u'',
+         'launch-9pOJ7IsTgMwBySa5')),
                       loc('hello.py'): ('project',
         (u'Jason\n',
          'launch-9pOJ7IsTgMwBySa5'))}
