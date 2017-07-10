@@ -1,9 +1,15 @@
 #!wing
-#!version=5.0
+#!version=6.0
 ##################################################################
 # Wing IDE project file                                          #
 ##################################################################
 [project attributes]
+proj.directory-list = [{'dirloc': loc('exercises'),
+                        'excludes': (),
+                        'filter': '*',
+                        'include_hidden': False,
+                        'recursive': True,
+                        'watch_for_changes': True}]
 proj.file-list = [loc('002.py'),
                   loc('003string.py'),
                   loc('hello.py')]
