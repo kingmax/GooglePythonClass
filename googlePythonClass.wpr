@@ -12,6 +12,8 @@ proj.directory-list = [{'dirloc': loc('exercises'),
                         'watch_for_changes': True}]
 proj.file-list = [loc('002.py'),
                   loc('003string.py'),
+                  loc('03_list.py'),
+                  loc('04_sort.py'),
                   loc('hello.py')]
 proj.file-type = 'shared'
 proj.launch-config = {loc('002.py'): ('project',
