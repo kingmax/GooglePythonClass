@@ -15,6 +15,7 @@ proj.file-list = [loc('002.py'),
                   loc('03_list.py'),
                   loc('04_sort.py'),
                   loc('05_dict.py'),
+                  loc('006_re.py'),
                   loc('hello.py')]
 proj.file-type = 'shared'
 proj.launch-config = {loc('002.py'): ('project',
